@@ -1,0 +1,8 @@
+[
+  { "op": "replace", "path": "/mainBar/collections/base", "value": "/sys/quickbar/openquickbar.png:base" },
+  { "op": "replace", "path": "/mainBar/collections/hover", "value": "/sys/quickbar/openquickbar.png:hover" },
+  { "op": "replace", "path": "/mainBar/collections/open", "value": "/sys/quickbar/openquickbar.png:open" },
+  { "op": "replace", "path": "/mainBar/collections/openHover", "value": "/sys/quickbar/openquickbar.png:openHover" },
+  { "op": "replace", "path": "/mainBar/collections/pos/0", "value": -2 },
+  { "op": "replace", "path": "/cursorTooltip/collectionsText", "value" : "Bad Quickbar" }
+]

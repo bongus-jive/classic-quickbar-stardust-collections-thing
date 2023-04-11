@@ -1,0 +1,5 @@
+[
+  {"op" : "move", "from" : "/scripts", "path" : "/pat_collectionScripts"},
+  {"op" : "add", "path" : "/scripts", "value" : ["/interface/scripted/collections/pat_openStardustQb.lua"]},
+  {"op" : "add", "path" : "/ui", "value" : "quickbar:quickbar"}
+]
