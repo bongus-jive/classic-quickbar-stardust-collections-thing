@@ -1,4 +1,0 @@
-[
-  { "op": "remove", "path": "/stardust_qb_icon" },
-  { "op": "add", "path": "/mgipc_noDismiss", "value": true }
-]

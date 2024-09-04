@@ -8,7 +8,7 @@
 				"label": "^essential;Collections",
 				"icon": "/interface/collections.png:base?crop=5;3;13;15?border=1;000;000",
 				"weight": -1149.9,
-				"action": [ "exec", "/interface/scripted/collections/pat_qbOpenCollections.lua" ]
+				"action": [ "pane", "/interface/scripted/collections/collectionsgui.config:pat_collectionsgui" ]
 			}
 		}
 	]

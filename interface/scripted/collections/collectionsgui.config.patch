@@ -1,5 +1,7 @@
 [
-  { "op": "move", "from": "/scripts", "path": "/pat_collectionScripts" },
-  { "op": "add", "path": "/scripts", "value": [ "/interface/scripted/collections/pat_openStardustQb.lua" ] },
-  { "op": "add", "path": "/ui", "value": "quickbar:quickbar" }
+  { "op": "copy", "from": "", "path": "/pat_collectionsgui" },
+  { "op": "add", "path": "/gui", "value": { } },
+  { "op": "add", "path": "/scripts", "value": [ "/interface/scripted/collections/pat_stardustqb.lua" ] },
+  { "op": "add", "path": "/config", "value": "quickbar:quickbar" },
+  { "op": "add", "path": "/fallback", "value": "/interface/scripted/collections/collectionsgui.config:pat_collectionsgui" }
 ]
