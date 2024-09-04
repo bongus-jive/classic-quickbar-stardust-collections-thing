@@ -11,5 +11,9 @@
 				"action": [ "pane", "/interface/scripted/collections/collectionsgui.config:pat_collectionsgui" ]
 			}
 		}
+	],
+	[
+		{ "op": "test", "path": "/items/classicqb:settings" },
+		{ "op": "remove", "path": "/items/classicqb:settings" }
 	]
 ]
