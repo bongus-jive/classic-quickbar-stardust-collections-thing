@@ -3,7 +3,7 @@
   "author" : "pat man",
   "description" : "removes the icon to open stardust quickbar from inside of classic quickbar and replaces the collections button with stardust quickbar\ncollections button is moved to a quickbar icon\n\nthis mods kinda exists only for  myself ,.this is just how i had both quickbars for a long time before i made 'classic quickbar' and i liked it like this . you can have it if you want though.\nits not really that useful at all . you really dont need two quickbars\n\n\n[url=https://discord.gg/GdsQSgV][img]https://i.imgur.com/wXjYMqP.gif[/img][/url]\n[url=https://www.patreon.com/pathiccstar][img]https://i.imgur.com/uyG8oTa.gif[/img][/url]",
   "name" : "pat_stardustquickbarcollections",
-  "priority" : 999999,
+  "priority" : 1.7976931348623158e+308,
   "friendlyName" : "Classic Quickbar: Stardust Quickbar replaces Collections patch",
   "steamContentId" : "2960773422",
   "link" : "steam://url/CommunityFilePage/2960773422",
